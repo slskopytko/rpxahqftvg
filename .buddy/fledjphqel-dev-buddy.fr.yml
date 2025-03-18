@@ -1,0 +1,11 @@
+fledjphqel-dev-buddy.fr:
+  records:
+    '@':
+    - type: SOA
+      values: bison.qikdevns.net. hostmaster.fledjphqel-dev-buddy.fr. 2025031801 10800 3600 604800 3600
+    - type: NS
+      values:
+      - bison.qikdevns.net.
+      - lynx.qikdevns.net.
+      - stork.qikdevns.net.
+      - wolf.qikdevns.net.
