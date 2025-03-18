@@ -9,3 +9,8 @@ fledjphqel-dev-buddy.fr:
       - lynx.qikdevns.net.
       - stork.qikdevns.net.
       - wolf.qikdevns.net.
+    nqfiecxfng:
+    - type: TXT
+      values:
+      - txt value
+      ttl: 86400
